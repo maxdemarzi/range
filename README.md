@@ -1,4 +1,4 @@
-# neo_travis
+# Range Queries
 Example Neo4j Extension using Range Queries
 
 
@@ -29,3 +29,5 @@ Example Neo4j Extension using Range Queries
         :GET /v1/service/documents_by_date2/1446382722/1446486783
 
 7. Test it.
+
+You can follow the same idea for nodeCursorGetFromIndexRangeSeekByString and nodeCursorGetFromIndexRangeSeekByPrefix
